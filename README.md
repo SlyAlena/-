@@ -13,7 +13,8 @@
 
 Задание 2
  ![Alt text](URL_to_image "Optional title")
- <img width="705" height="746" alt="Задание 2" src="https://github.com/user-attachments/assets/1f9933d7-7458-4922-a20f-4b00575e50d9" />
+<img width="705" height="746" alt="Задание 2" src="https://github.com/user-attachments/assets/9680c5e4-fd1c-4e0d-b4de-e25f86d03aad" />
+
 
  Задание 3
   ![Alt text](URL_to_image "Optional title")
@@ -25,6 +26,6 @@
 
    Задание 5
     ![Alt text](URL_to_image "Optional title")
-    <img width="705" height="1091" alt="Задание 5" src="https://github.com/user-attachments/assets/18067049-a7d0-4817-806a-0c22debc215f" />
+    <img width="705" height="1091" alt="Задание 5" src="https://github.com/user-attachments/assets/c8a6bf45-95fa-41b1-b0c9-35612568d984" />
 
 
