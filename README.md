@@ -1,3 +1,12 @@
+![Alt text](URL_to_image "Optional title")
+<img width="852" height="941" alt="Снимок экрана (8)" src="https://github.com/user-attachments/assets/c0bbdcdc-8c01-4b73-933b-b502878c6cf6" />
+
+
+
+
+
+
+
 Задание 1
  ![Alt text](URL_to_image "Optional title")
  <img width="705" height="648" alt="Задание 1" src="https://github.com/user-attachments/assets/7c941c37-9fe0-412d-ab8b-b4a6b96a196f" />
